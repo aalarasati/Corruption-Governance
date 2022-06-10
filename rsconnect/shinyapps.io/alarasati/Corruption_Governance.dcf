@@ -1,0 +1,14 @@
+name: Corruption_Governance
+title: Corruption_Governance
+username:
+account: alarasati
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5861442
+bundleId: 5688801
+url: https://alarasati.shinyapps.io/Corruption_Governance/
+when: 1647382971.64693
+lastSyncTime: 1647382971.64693
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: 1_data.R|2_plots.R|3_text_analysis.R|data/CPI2021_GlobalResults&Trends.xlsx|data/WB_Governance_Indicators.csv|FP_instruction.md|images/Corruption_Democracy.png|images/Corruption_GDP.png|images/map_CPI_2020.png
