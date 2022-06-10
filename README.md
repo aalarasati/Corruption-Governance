@@ -26,7 +26,7 @@ One of the main focus of this final project is my shinyapp: https://alarasati.sh
 
 ## Text analysis
 
-For the text analysis I scraped https://freedomhouse.org/countries/nations-transit/scores. Using a similar strategy that I used in homework 3, I used the main page to save the url for individual countries in a data frame. Then, I looped the url links, binding the country names, relevant paragraphs using index, and url link. From the url link we can parse the year of the report, leaving room for comparison between years for future research.  
+For the text analysis I scraped https://freedomhouse.org/countries/nations-transit/scores. I used the main page to save the url for individual countries in a data frame. Then, I looped the url links, binding the country names, relevant paragraphs using index, and url link. From the url link we can parse the year of the report, leaving room for comparison between years for future research.  
 
 <img src = "https://user-images.githubusercontent.com/70595785/158736668-999e9326-4856-4e69-bc74-665432bf8819.png" width="400" height="300">
 
